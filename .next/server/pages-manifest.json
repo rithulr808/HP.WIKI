@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/characters": "pages/characters.js",
-  "/": "pages/index.js",
-  "/characters/[profileId]": "pages/characters/[profileId].js"
+  "/": "pages/index.js"
 }
